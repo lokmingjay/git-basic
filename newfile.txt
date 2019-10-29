@@ -1,3 +1,8 @@
 testing by Jay
 testing again by Jay
 testing on Github by Jay
+
+git add is adding the file to the git index, the staing environment, ready to be commited
+git commit is to committing the tracked file to the repository
+git push is to sending all committed file to the remote repository with the mapped branch
+
